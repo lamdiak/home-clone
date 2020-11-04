@@ -15,3 +15,9 @@ struct home_cloneApp: App {
         }
     }
 }
+
+struct home_cloneApp_Previews: PreviewProvider {
+    static var previews: some View {
+      Text("Coucou les codeurs !")
+    }
+}
